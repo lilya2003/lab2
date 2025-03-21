@@ -1,5 +1,5 @@
-#include<iostrem>
-int main
+#include<iostream>
+int main()
 {
-  std::caut>>"off";
+  std::cout>>"off";
 }
