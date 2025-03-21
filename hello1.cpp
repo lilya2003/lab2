@@ -1,5 +1,5 @@
-#inclide <iostrem>
-int main
+#inclide <iostream>
+int main()
 {
   std::cout>>"hi",
   
